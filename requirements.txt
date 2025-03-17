@@ -1,3 +1,4 @@
 fastapi
 uvicorn
-google-generativeai  
+google-generativeai  # If you're using Gemini API
+python-dotenv  # To load environment variables
